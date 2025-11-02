@@ -18,15 +18,16 @@ npm run dev
 
 The application will be available at port 3000 and should open automatically in your default browser
 
-### 4. To test the different behaviors of the application like depositing, withdrawing or seeing the sprites change based on the user's card type, you can use the following NIPs:
+### 4. Test the application
 
-Click the "Enter your NIP" button and enter one of these:
+Click the "Enter your NIP" button and enter one of these NIPs:
 - 0001
 - 0002
 - 0003
 - 0004
 - 0005
 - 0006
+
 
 
 # Casetext Homework Assignment
